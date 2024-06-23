@@ -1,1 +1,1 @@
-# BlinkIt-Clone-Final-Demo-Days
+# BlinkIt-Clone
